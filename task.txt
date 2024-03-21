@@ -1,0 +1,16 @@
+
+admin
+
+1. job allocation  --> completed
+
+
+doctor
+
+3. reply query --> completed
+5. update patient detail
+
+patient
+
+2. query asking --> completed
+4. view answer --> completed
+6. view patient history
